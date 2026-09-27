@@ -56,7 +56,7 @@ export default function Home() {
               <Video size={26}/><h3>Online</h3><p>Sessões por videochamada, permitindo mais flexibilidade para sua rotina.</p>
             </article>
             <article className="info-card">
-              <MessageCircle size={26}/><h3>Psicoterapia individual</h3><p>Acompanhamento psicológico para questões emocionais, relacionais e de autoconhecimento.</p>
+              <MessageCircle size={26}/><h3>Agendamento antecipado</h3><p>Garanta seu horário com antecedência e tenha mais tranquilidade para organizar sua rotina.</p>
             </article>
           </div>
         </div>
