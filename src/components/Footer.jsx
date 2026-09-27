@@ -8,7 +8,7 @@ export default function Footer() {
         </div>
         <div>
           <p><strong>CRP:</strong> 20/14348</p>
-          <p><strong>Contato:</strong> (92) 99363-3961s</p>
+          <p><strong>Contato:</strong> (92) 99363-3961</p>
         </div>
       </div>
       <div className="container footer-note">© 2026 • Site profissional de Psicologia</div>
