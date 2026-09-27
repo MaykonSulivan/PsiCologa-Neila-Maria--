@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
 import { CalendarCheck, Heart, LockKeyhole, MessageCircle, Video, MapPin } from 'lucide-react'
 import psicologa from './img/psicologa.png'
+import { CalendarClock } from "lucide-react";
+
 
 export default function Home() {
   return (
@@ -56,7 +58,8 @@ export default function Home() {
               <Video size={26}/><h3>Online</h3><p>Sessões por videochamada, permitindo mais flexibilidade para sua rotina.</p>
             </article>
             <article className="info-card">
-              <MessageCircle size={26}/><h3>Agendamento antecipado</h3><p>Garanta seu horário com antecedência e tenha mais tranquilidade para organizar sua rotina.</p>
+              <CalendarClock size={30
+              } color="#5f8074" strokeWidth={2} /><h3>Agendamento antecipado</h3><p>Garanta seu horário com antecedência e tenha mais tranquilidade para organizar sua rotina.</p>
             </article>
           </div>
         </div>
